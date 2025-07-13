@@ -1,5 +1,4 @@
 ## Hi there 👋
-### Lead Developer discord.gg/aliusrp
 ### Lua, VueJs developer
 ### Student
 <!--
